@@ -1,0 +1,3 @@
+mkdir- cria diretorios
+cd- permite navegar dentro deles
+
